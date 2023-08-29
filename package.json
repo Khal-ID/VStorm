@@ -1,0 +1,29 @@
+{
+  "name": "vstorm-theme",
+  "displayName": "VStorm Color Theme",
+  "description": "VStorm a dark theme for Visual Studio Code inspired by IntelliJ and PHPStorm",
+  "version": "0.0.2",
+  "publisher": "Khalid H.",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://ikhalid.dev",
+  "repository": {
+    "type": "git",
+    "url": "#"
+  },
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "VStorm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vstorm-color-theme.json"
+      }
+    ]
+  }
+}
