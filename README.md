@@ -23,3 +23,7 @@ This is the initial version that I made for personal use as I'm trying to move f
 4. Click Reload to reload your editor
 5. Select the Manage Cog (bottom left) > Color Theme ＞ VStorm Color Theme
 6. 🌟🌟🌟🌟🌟 Rate five-stars if you enjoy 😁
+
+## Issues and Suggestions
+
+If you have any issue or suggestion, please refer to [GitHub Issues](https://github.com/Khal-ID/VStorm/issues).
