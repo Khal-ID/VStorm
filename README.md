@@ -2,7 +2,7 @@
 
 # VStorm Theme for VS Code
 
-Thank you for checking out my VS Code theme, which was inspired by by IntelliJ and PHPStorm.
+Thank you for checking out my VS Code theme, which was inspired by IntelliJ and PHPStorm.
 
 This is the initial version that I made for personal use as I'm trying to move from PHP Storm to VS Code.
 
