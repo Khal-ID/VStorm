@@ -2,7 +2,7 @@
   "name": "vstorm-theme",
   "displayName": "VStorm Color Theme",
   "description": "VStorm a dark theme for Visual Studio Code inspired by IntelliJ and PHPStorm",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "WEBNETSolutions",
   "homepage": "https://webnet.mx",
   "author": {
