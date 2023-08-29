@@ -1,5 +1,4 @@
-[![VStorm theme](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshot.png)](https://ikhalid.dev)
-[![VStorm theme](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshot2.png)](https://ikhalid.dev)
+[![VStorm theme](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshots.gif)](https://ikhalid.dev)
 
 # VStorm Theme for VS Code
 
@@ -23,7 +22,15 @@ This is the initial version that I made for personal use as I'm trying to move f
 4. Click Reload to reload your editor
 5. Select the Manage Cog (bottom left) > Color Theme ＞ VStorm Color Theme
 6. 🌟🌟🌟🌟🌟 Rate five-stars if you enjoy 😁
+7. Follow me on X [@KhalidCodes](https://x.com/KhalidCodes)
 
 ## Issues and Suggestions
 
 If you have any issue or suggestion, please refer to [GitHub Issues](https://github.com/Khal-ID/VStorm/issues).
+
+- [VStorm theme JavaScript 1](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshots/screenshot-1.png)
+- [VStorm theme JavaScript 2](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshots/screenshot-2.png)
+- [VStorm theme JavaScript 3](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshots/screenshot-5.png)
+- [VStorm theme PHP](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshots/screenshot-3.png)
+- [VStorm theme HTML/Blade](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshots/screenshot-4.png)
+- [VStorm theme CSS](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshots/screenshot-6.png)
