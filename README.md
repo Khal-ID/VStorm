@@ -21,5 +21,5 @@ This is the initial version that I made for personal use as I'm trying to move f
 2. Search for **VStorm Color Theme**
 3. Click Install
 4. Click Reload to reload your editor
-5. Select the Manage Cog (bottom left) > Color Theme ＞ VStorm Theme
+5. Select the Manage Cog (bottom left) > Color Theme ＞ VStorm Color Theme
 6. 🌟🌟🌟🌟🌟 Rate five-stars if you enjoy 😁
