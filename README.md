@@ -6,12 +6,13 @@ Thank you for checking out my VS Code theme, which was inspired by by IntelliJ a
 
 This is the initial version that I made for personal use as I'm trying to move from PHP Storm to VS Code.
 
-I'll try to upload it to the Market Place as well
+Marketplace: https://marketplace.visualstudio.com/items?itemName=WEBNETSolutions.vstorm-theme
+Source Code: https://github.com/Khal-ID/VStorm
 
 ## Installation
 
 1. Open the extensions sidebar on Visual Studio Code
-2. Search for VStorm Theme
+2. Search for _VStorm Color Theme_
 3. Click Install
 4. Click Reload to reload your editor
 5. Select the Manage Cog (bottom left) > Color Theme ＞ VStorm Theme
