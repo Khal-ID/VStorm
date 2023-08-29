@@ -1,4 +1,5 @@
 [![VStorm theme](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshot.png)](https://ikhalid.dev)
+[![VStorm theme](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshot2.png)](https://ikhalid.dev)
 
 # VStorm Theme for VS Code
 
