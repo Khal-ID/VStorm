@@ -1,3 +1,4 @@
 node_modules
+ignored assets
 *.vsix
 .DS_Store
