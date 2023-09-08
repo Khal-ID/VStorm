@@ -2,9 +2,9 @@
   "name": "VStorm Theme",
   "type": "dark",
   "colors": {
-    "list.dropBackground": "#383b3d",
+    "list.dropBackground": "#2B2D30", // previously: #383b3d
     "editor.foreground": "#B3BFCD",
-    "editor.background": "#313131",
+    "editor.background": "#2B2B2B", // previously: #313131
     "editor.lineHighlightBackground": "#2A2A2B",
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editor.selectionHighlightBackground": "#add6ff26",
@@ -12,7 +12,9 @@
     "sideBar.background": "#313337",
     "sideBarSectionHeader.background": "#4C4E54",
     "activityBar.background": "#313337",
-    "activityBar.border": "#1d1d1d"
+    "activityBar.border": "#1d1d1d",
+    "tree.indentGuidesStroke": "#05befc", // added in 0.0.7
+    "tree.inactiveIndentGuidesStroke": "#add6ff26" // added in 0.0.7
   },
   "tokenColors": [
     {
