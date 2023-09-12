@@ -6,7 +6,7 @@ Thank you for checking out my VS Code theme, which was inspired by IntelliJ and 
 
 This is the initial version that I made for personal use as I'm trying to move from PHP Storm to VS Code.
 
-**Marketplace:** https://marketplace.visualstudio.com/items?itemName=WEBNETSolutions.vstorm-theme
+**Marketplace:** https://marketplace.visualstudio.com/items?itemName=WEBNETSolutions.vstorm-color-theme
 
 **Source Code:** https://github.com/Khal-ID/VStorm
 
