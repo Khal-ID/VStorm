@@ -1,5 +1,9 @@
 [![VStorm theme](https://raw.githubusercontent.com/Khal-ID/VStorm/main/screenshots.gif)](https://ikhalid.dev)
 
+![GitHub](https://img.shields.io/github/license/Khal-ID/VStorm?style=for-the-badge)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/WEBNETSolutions.vstorm-color-theme?style=for-the-badge&logo=visualstudiocode&logoColor=%235BB4EF&color=%23F96E27)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/WEBNETSolutions.vstorm-color-theme?style=for-the-badge&logo=visualstudiocode&logoColor=5BB4EF)
+
 # VStorm Theme for VS Code
 
 Thank you for checking out my VS Code theme, which was inspired by IntelliJ and PHPStorm.

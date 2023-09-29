@@ -4,6 +4,10 @@ All notable changes to the "VStorm Color Theme" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.9] - 2023-28-09
+
+- Updated README.md - WE HAVE BADGES! 🎉
+
 ## [0.0.7] - 2023-07-09
 
 - Changed the name to **VStorm Color Theme** from **VStrom Theme** for consistency
